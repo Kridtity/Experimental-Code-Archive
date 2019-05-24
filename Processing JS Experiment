@@ -168,7 +168,7 @@
           minS.draw();
           minB.draw();
       };
-  
+  }};
   var canvas = document.getElementById("firstCanvas"); 
   var processingInstance = new Processing(canvas, programCode); 
   </script>
